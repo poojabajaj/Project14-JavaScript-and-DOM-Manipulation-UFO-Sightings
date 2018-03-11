@@ -1,0 +1,13 @@
+.form-control {
+  display: inline-block;
+  width: 180px;
+  margin-top: 50px;
+}
+
+/*
+.form-group{
+  display: inline-block;
+  width: 180px;
+  margin-top: 50px;
+}
+*/
